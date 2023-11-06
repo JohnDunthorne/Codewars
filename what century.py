@@ -9,5 +9,3 @@ def century(year):
     if len(str(year)) == 4:
         year = year - 1
         return year[0:1] + 1
-
-    #
