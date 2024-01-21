@@ -1,8 +1,6 @@
-str1 = "Hello"
+import numpy as np
 
-
-def q1():
-    print(str1)
-
-
-q1()
+x = np.arange(10)
+print(x)
+print(x[:5])
+print(x[4:7])
