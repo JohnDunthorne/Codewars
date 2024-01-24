@@ -9,3 +9,6 @@ Q2 = Q1[2, 3:8].tolist(),Q1[3, 3:8].tolist(),Q1[4, 3:8].tolist()
 print(Q2)
 
 print(Q2)
+
+
+#
